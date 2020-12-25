@@ -1,2 +1,1 @@
-# Hello-world
-I have no experience
+Print("Hello- world")
